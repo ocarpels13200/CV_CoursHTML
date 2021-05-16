@@ -1,0 +1,15 @@
+/*Style générique des titres*/
+h1
+{
+    color: blue;
+    font-weight: bolder;
+}
+h2
+{
+    color: chocolate;
+    font-weight: bold;
+}
+h3
+{
+    color: darkolivegreen;
+}
