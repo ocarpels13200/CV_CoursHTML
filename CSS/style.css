@@ -12,8 +12,7 @@
 }
 /*Fond d'écran*/
 body{
-    background-image: url("../Images/fond.jpg");
-    background-repeat: no-repeat;
+    background-image: url("../Images/beige-tiles.png");
 }
 /*Flexbox*/
 header{
@@ -22,12 +21,9 @@ header{
     justify-content: space-around;
     align-items: center;
 }
-/*Logo du CV*/
-img{
-}
 /*Mise en page du menu*/
 header li{
-    color: white;
+    color: brown;
     list-style-type: none;
 }
 header li:hover{
@@ -63,8 +59,8 @@ section li{
 }
 main{
     border: 2px solid chocolate;
-    margin: 20px 90px 50px 90px;
-    background-color: rgba(36, 34, 34, 0.4);
+    margin: 10px 90px 50px 90px;
+    background-color: rgba(36, 34, 34, 0.6);
 }
 footer{
     text-align: center;
